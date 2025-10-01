@@ -1,0 +1,3 @@
+- An AI powered meeting assistant to fully automate note taking during an online meeting.
+- Sit back and relax while the assistant takes notes, extracts actions and decisions taken during the meeting, and generates a meeting summary, packed into a single DOCX file.
+- Uses Whisper, KeyBERT, GPT4All, NLTK, python-docx
